@@ -4,4 +4,4 @@
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jules-dp&show_icons=true&theme=transparent&hide_border=true)
