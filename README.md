@@ -2,11 +2,11 @@
 
 🛠️ Ce que j'explore
 
-  💻 Développement logiciel et programmation
-  🐧 Linux, particulièrement Arch Linux
-  🔐 Réseaux et cybersécurité
-  🧪 Projets personnels et expérimentations
-  🚀 Quelques projets
+ - 💻 Développement logiciel et programmation
+ - 🐧 Linux, particulièrement Arch Linux
+ - 🔐 Réseaux et cybersécurité
+ - 🧪 Projets personnels et expérimentations
+ - 🚀 Quelques projets
 
 Tu trouveras ici différents projets réalisés dans le cadre de mes études ou simplement par curiosité.
 
